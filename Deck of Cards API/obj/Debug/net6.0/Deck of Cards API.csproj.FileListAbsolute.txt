@@ -1,0 +1,33 @@
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/bin/Debug/net6.0/appsettings.Development.json
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/bin/Debug/net6.0/appsettings.json
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/bin/Debug/net6.0/Deck of Cards API.staticwebassets.runtime.json
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/bin/Debug/net6.0/Deck of Cards API
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/bin/Debug/net6.0/Deck of Cards API.deps.json
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/bin/Debug/net6.0/Deck of Cards API.runtimeconfig.json
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/bin/Debug/net6.0/Deck of Cards API.dll
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/bin/Debug/net6.0/Deck of Cards API.pdb
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.csproj.AssemblyReference.cache
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.AssemblyInfoInputs.cache
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.AssemblyInfo.cs
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.csproj.CoreCompileInputs.cache
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.MvcApplicationPartsAssemblyInfo.cache
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.RazorAssemblyInfo.cache
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.RazorAssemblyInfo.cs
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/staticwebassets/msbuild.Deck of Cards API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/staticwebassets/msbuild.build.Deck of Cards API.props
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Deck of Cards API.props
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Deck of Cards API.props
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/scopedcss/bundle/Deck of Cards API.styles.css
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/scopedcss/projectbundle/Deck of Cards API.bundle.scp.css
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.csproj.CopyComplete
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.dll
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/refint/Deck of Cards API.dll
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.pdb
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/Deck of Cards API.genruntimeconfig.cache
+/Users/wilchec/GrandCircus/Projects/Deck of Cards API/Deck of Cards API/obj/Debug/net6.0/ref/Deck of Cards API.dll
